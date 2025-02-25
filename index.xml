@@ -7,15 +7,8 @@
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <copyright>Noah Zhiyi Lin</copyright>
-    <lastBuildDate>Tue, 25 Feb 2025 23:49:23 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>TestDeploy</title>
-      <link>https://example.com/p/testdeploy/</link>
-      <pubDate>Tue, 25 Feb 2025 23:49:23 +0800</pubDate>
-      <guid>https://example.com/p/testdeploy/</guid>
-      <description>&lt;p&gt;Test github action&amp;hellip;&lt;/p&gt;</description>
-    </item>
     <item>
       <title>归档</title>
       <link>https://example.com/archives/</link>
