@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Noah的方舟</title>
-    <link>https://example.com/categories/</link>
+    <link>https://noahzyl.github.io/categories/</link>
     <description>Recent content in Categories on Noah的方舟</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <copyright>Noah Zhiyi Lin</copyright>
-    <atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://noahzyl.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
