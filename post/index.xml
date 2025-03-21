@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Noah的方舟</title>
-        <link>https://noahzyl.github.io/</link>
-        <description>Recent content on Noah的方舟</description>
+        <title>Posts on Noah的方舟</title>
+        <link>https://noahzyl.github.io/post/</link>
+        <description>Recent content in Posts on Noah的方舟</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Noah Zhiyi Lin</copyright>
-        <lastBuildDate>Fri, 21 Mar 2025 23:32:19 +0800</lastBuildDate><atom:link href="https://noahzyl.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 21 Mar 2025 23:32:19 +0800</lastBuildDate><atom:link href="https://noahzyl.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>算法训练 3｜LeetCode203 移除链表元素、LeetCode707 设计链表、LeetCode206 反转链表</title>
         <link>https://noahzyl.github.io/p/%E7%AE%97%E6%B3%95%E8%AE%AD%E7%BB%83-3leetcode203-%E7%A7%BB%E9%99%A4%E9%93%BE%E8%A1%A8%E5%85%83%E7%B4%A0leetcode707-%E8%AE%BE%E8%AE%A1%E9%93%BE%E8%A1%A8leetcode206-%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8/</link>
         <pubDate>Fri, 21 Mar 2025 23:32:19 +0800</pubDate>
@@ -1489,34 +1489,6 @@ n和m不同时为 1。&lt;/p&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
-        </item>
-        <item>
-        <title>归档</title>
-        <link>https://noahzyl.github.io/archives/</link>
-        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://noahzyl.github.io/archives/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>关于</title>
-        <link>https://noahzyl.github.io/%E5%85%B3%E4%BA%8E/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://noahzyl.github.io/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;p&gt;一个永远保持好奇心的计算机爱好者&lt;/p&gt;
-&lt;p&gt;专业：软件工程、国际经济与贸易&lt;/p&gt;
-&lt;p&gt;欢迎致信：noah-zhiyi-lin@outlook.com&lt;/p&gt;
-&lt;p&gt;Just for fun&amp;hellip;&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>搜索</title>
-        <link>https://noahzyl.github.io/search/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://noahzyl.github.io/search/</guid>
-        <description></description>
         </item>
         
     </channel>
